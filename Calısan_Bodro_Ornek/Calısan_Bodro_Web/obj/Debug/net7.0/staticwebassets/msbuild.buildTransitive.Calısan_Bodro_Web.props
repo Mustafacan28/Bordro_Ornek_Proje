@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Calısan_Bodro_Web.props" />
+</Project>

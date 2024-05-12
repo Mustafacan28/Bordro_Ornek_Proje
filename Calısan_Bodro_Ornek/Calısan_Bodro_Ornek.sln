@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calısan_Bodro_Web", "Calısan_Bodro_Web\Calısan_Bodro_Web.csproj", "{2003CA8E-946B-4EFF-BB42-BDE8C249A08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmployee", "TestEmployee\TestEmployee.csproj", "{F9F9B60A-C0FE-4FE9-A2A7-ED60D1E7A355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2003CA8E-946B-4EFF-BB42-BDE8C249A08C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2003CA8E-946B-4EFF-BB42-BDE8C249A08C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2003CA8E-946B-4EFF-BB42-BDE8C249A08C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2003CA8E-946B-4EFF-BB42-BDE8C249A08C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F9B60A-C0FE-4FE9-A2A7-ED60D1E7A355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F9B60A-C0FE-4FE9-A2A7-ED60D1E7A355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F9B60A-C0FE-4FE9-A2A7-ED60D1E7A355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F9B60A-C0FE-4FE9-A2A7-ED60D1E7A355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C91AC88A-4AF4-4F0D-AE05-805A6E3E52C8}
+	EndGlobalSection
+EndGlobal
